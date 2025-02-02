@@ -1,1 +1,1 @@
-Packages Used: Seaborn  Using visuals to show the comparison between two different variables
+Packages Used: Seaborn  Using visuals to show comparisons between two different variables
